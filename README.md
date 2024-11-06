@@ -142,3 +142,9 @@ This is a public list of science/technology creators that I like and trust to pr
   ### William Osman
 
 </details>
+
+## List of Educational Focused
+<details>
+  <summary></summary>
+  
+</details>
