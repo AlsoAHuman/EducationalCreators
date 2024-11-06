@@ -3,7 +3,7 @@ This is a public list of science/technology creators that I like and trust to pr
 
 <details>
   <summary>A List of Everyone</summary>
-    ### 3Blue1Brown
+  ### 3Blue1Brown
 
     ### Allen Pan
 
