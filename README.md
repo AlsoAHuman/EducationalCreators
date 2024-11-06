@@ -138,3 +138,4 @@ This is a public list of science/technology creators that I like and trust to pr
     ### William H Baker
 
     ### William Osman
+</details>
