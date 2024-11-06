@@ -20,6 +20,8 @@ This is a public list of science/technology creators that I like and trust to pr
   ### Caitlin Doughty
   
   ### ChromaLock
+
+  ### Cleo Abram
   
   ### colinfurze
   
