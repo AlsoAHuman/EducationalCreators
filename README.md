@@ -3,135 +3,135 @@ This is a public list of science/technology creators that I like and trust to pr
 
 <details>
   <summary>A List of Everyone</summary>
-    3Blue1Brown
+    ### 3Blue1Brown
 
-    Allen Pan
+    ### Allen Pan
 
-    Andrew Lam
+    ### Andrew Lam
 
-    Answer in Progress
+    ### Answer in Progress
 
-    Be Smart
+    ### Be Smart
 
-    Bernadette Banner
+    ### Bernadette Banner
 
-    Branch Education
+    ### Branch Education
 
-    Caitlin Doughty
+    ### Caitlin Doughty
 
-    ChromaLock
+    ### ChromaLock
 
-    Cleo Abram
+    ### Cleo Abram
 
-    colinfurze
+    ### colinfurze
 
-    Computerphile
+    ### Computerphile
 
-    CrashCourse
+    ### CrashCourse
 
-    Emergent Garden
+    ### Emergent Garden
 
-    Emily The Engineer
+    ### Emily The Engineer
 
-    Explosions&Fire
+    ### Explosions&Fire
 
-    Extra History
+    ### Extra History
 
-    hankschannel
+    ### hankschannel
 
-    I did a thing
+    ### I did a thing
 
-    Integza
+    ### Integza
 
-    James Bruton
+    ### James Bruton
 
-    Jessica Kellgren-Fozard
+    ### Jessica Kellgren-Fozard
 
-    JLaservideo
+    ### JLaservideo
 
-    Kaz Rowe
+    ### Kaz Rowe
 
-    Kiara's Workshop
+    ### Kiara's Workshop
 
-    Kurzgesagt - In a Nutshell
+    ### Kurzgesagt - In a Nutshell
 
-    Kyle Hill
+    ### Kyle Hill
 
-    Lily Alexandre
+    ### Lily Alexandre
 
-    Mark Rober
+    ### Mark Rober
 
-    mattbatwings
+    ### mattbatwings
 
-    Michael Reeves
+    ### Michael Reeves
 
-    MinuteEarth
+    ### MinuteEarth
 
-    MinuteFood
+    ### MinuteFood
 
-    minutephysics
+    ### minutephysics
 
-    Morley Kert
+    ### Morley Kert
 
-    Morphocular
+    ### Morphocular
 
-    Nicole Rudolph
+    ### Nicole Rudolph
 
-    NileBlue
+    ### NileBlue
 
-    NileRed
+    ### NileRed
 
-    Not David
+    ### Not David
 
-    Not Just Bikes
+    ### Not Just Bikes
 
-    Numberphile
+    ### Numberphile
 
-    Overly Sarcastic Productions
+    ### Overly Sarcastic Productions
 
-    OverSimplified
+    ### OverSimplified
 
-    PBS Eons
+    ### PBS Eons
 
-    PBS Space Time
+    ### PBS Space Time
 
-    Planet Wild
+    ### Planet Wild
 
-    Practical Engineering
+    ### Practical Engineering
 
-    Premodernist
+    ### Premodernist
 
-    Sage the Bad Naturalist
+    ### Sage the Bad Naturalist
 
-    SciShow
+    ### SciShow
 
-    Scishow Psych
+    ### Scishow Psych
 
-    Scott Yu-Jan
+    ### Scott Yu-Jan
 
-    sexplanations
+    ### sexplanations
 
-    SmarterEveryDay
+    ### SmarterEveryDay
 
-    SoFISHtication
+    ### SoFISHtication
 
-    Steve Mould
+    ### Steve Mould
 
-    styropyro
+    ### styropyro
 
-    The Action Lab
+    ### The Action Lab
 
-    The Art Assignment
+    ### The Art Assignment
 
-    The Canvas
+    ### The Canvas
 
-    The Thought Emporium
+    ### The Thought Emporium
 
-    Undecided with Matt Ferrell
+    ### Undecided with Matt Ferrell
 
-    Vercidium
+    ### Vercidium
 
-    ### Veritasium
+    ### ### Veritasium
 
     ### vlogbrothers
 
