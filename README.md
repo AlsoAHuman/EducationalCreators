@@ -2,9 +2,6 @@
 This is a public list of science/technology creators that I like and trust to provide accurate information in an interesting way. If you have any other seggestions, please leave make an issue or pull request. Firstly there are is a list of everyone. Then, these are split into 2 lists: the first list focuses on educational content in a fun way; the second focuses on entertaining content that happens to instill curiosity about the world and subsequently educates the viewer.
 
 ## A List of Everyone
-<details>
-  <summary></summary>
- 
   ### 3Blue1Brown
 
   ### Allen Pan
@@ -140,5 +137,3 @@ This is a public list of science/technology creators that I like and trust to pr
   ### William H Baker
 
   ### William Osman
-
-</details>
