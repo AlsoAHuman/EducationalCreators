@@ -2,35 +2,35 @@
 This is a public list of science/technology creators that I like and trust to provide accurate information in an interesting way. If you have any other suggestions, please leave make an issue or pull request. Firstly there are is a list of everyone. Then, these are split into 2 lists: the first list focuses on educational content in a fun way; the second focuses on entertaining content that happens to instill curiosity about the world and subsequently educates the viewer.
 
 ## A List of Everyone
-  ### 3Blue1Brown
+  ### [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
   ### Allen Pan
 
   ### Andrew Lam
 
-  ### Answer in Progress
+  ### [Answer in Progress](https://www.youtube.com/c/answerinprogress)
 
-  ### Be Smart
+  ### [Be Smart](https://www.youtube.com/user/itsokaytobesmart)
 
   ### Bernadette Banner
 
-  ### Branch Education
+  ### [Branch Education](https://www.youtube.com/c/BranchEducation)
 
-  ### Caitlin Doughty
+  ### [Caitlin Doughty](https://www.youtube.com/c/AskAMortician)
 
   ### ChromaLock
 
-  ### Cleo Abram
+  ### [Cleo Abram](https://www.youtube.com/c/CleoAbram)
 
-  ### colinfurze
+  ### [colinfurze](https://www.youtube.com/user/colinfurze)
 
-  ### Computerphile
+  ### [Computerphile](https://www.youtube.com/user/Computerphile)
 
-  ### CrashCourse
+  ### [CrashCourse](https://www.youtube.com/user/crashcourse)
 
-  ### Emergent Garden
+  ### [Emergent Garden](https://www.youtube.com/c/EmergentGarden)
 
-  ### Emily The Engineer
+  ### [Emily The Engineer](https://www.youtube.com/c/EmilyTheEngineer)
 
   ### Explosions&Fire
 
@@ -38,63 +38,63 @@ This is a public list of science/technology creators that I like and trust to pr
 
   ### HGModernism
 
-  ### hankschannel
+  ### [hankschannel](https://www.youtube.com/user/hankschannel)
 
-  ### I did a thing
+  ### [I did a thing](https://www.youtube.com/c/Ididathing)
 
-  ### Integza
+  ### [Integza](https://www.youtube.com/c/Integza)
 
-  ### James Bruton
+  ### [James Bruton](https://www.youtube.com/c/jamesbruton)
 
   ### Jessica Kellgren-Fozard
 
-  ### JLaservideo
+  ### [JLaservideo](https://www.youtube.com/c/JLaservideo)
 
-  ### Kaz Rowe
+  ### [Kaz Rowe](https://www.youtube.com/c/KazRowe)
 
-  ### Kiara's Workshop
+  ### [Kiara's Workshop](https://www.youtube.com/c/KiarasWorkshop)
 
-  ### Kurzgesagt - In a Nutshell
+  ### [Kurzgesagt - In a Nutshell](https://www.youtube.com/c/inanutshell)
 
-  ### Kyle Hill
+  ### [Kyle Hill](https://www.youtube.com/c/KyleHillScience)
 
   ### Lily Alexandre
 
-  ### Mark Rober
+  ### [Mark Rober](https://www.youtube.com/c/MarkRober)
 
-  ### mattbatwings
+  ### [mattbatwings](https://www.youtube.com/c/mattbatwings)
 
-  ### Michael Reeves
+  ### [Michael Reeves](https://www.youtube.com/c/MichaelReeves)
 
-  ### MinuteEarth
+  ### [MinuteEarth](https://www.youtube.com/c/minuteearth)
 
-  ### MinuteFood
+  ### [MinuteFood](https://www.youtube.com/c/MinuteFood)
 
-  ### minutephysics
+  ### [minutephysics](https://www.youtube.com/user/minutephysics)
 
-  ### Morley Kert
+  ### [Morley Kert](https://www.youtube.com/c/MorleyKert)
 
   ### Morphocular
 
-  ### Nicole Rudolph
+  ### [Nicole Rudolph](https://www.youtube.com/c/NicoleRudolph)
 
   ### NileBlue
 
-  ### NileRed
+  ### [NileRed](https://www.youtube.com/c/NileRed)
 
   ### Not David
 
-  ### Not Just Bikes
+  ### [Not Just Bikes](https://www.youtube.com/c/NotJustBikes)
 
-  ### Numberphile
+  ### [Numberphile](https://www.youtube.com/user/numberphile)
 
   ### Overly Sarcastic Productions
 
-  ### OverSimplified
+  ### [OverSimplified](https://www.youtube.com/c/OverSimplified)
 
-  ### PBS Eons
+  ### [PBS Eons](https://www.youtube.com/c/Eons)
 
-  ### PBS Space Time
+  ### [PBS Space Time](https://www.youtube.com/c/pbsspacetime)
 
   ### Planet Wild
 
@@ -104,38 +104,38 @@ This is a public list of science/technology creators that I like and trust to pr
 
   ### Sage the Bad Naturalist
 
-  ### SciShow
+  ### [SciShow](https://www.youtube.com/user/scishow)
 
-  ### Scishow Psych
+  ### [Scishow Psych](https://www.youtube.com/c/SciShowPsych)
 
-  ### Scott Yu-Jan
+  ### [Scott Yu-Jan](https://www.youtube.com/c/ScottYuJan)
 
-  ### sexplanations
+  ### [sexplanations](https://www.youtube.com/user/sexplanations)
 
-  ### SmarterEveryDay
+  ### [SmarterEveryDay](https://www.youtube.com/user/destinws2)
 
   ### SoFISHtication
 
-  ### Steve Mould
+  ### [Steve Mould](https://www.youtube.com/c/SteveMould)
 
-  ### styropyro
+  ### [styropyro](https://www.youtube.com/user/styropyro)
 
-  ### The Action Lab
+  ### [The Action Lab](https://www.youtube.com/c/TheActionLab)
 
-  ### The Art Assignment
+  ### [The Art Assignment](https://www.youtube.com/c/TheArtAssignment)
 
   ### The Canvas
 
-  ### The Thought Emporium
+  ### [The Thought Emporium](https://www.youtube.com/c/TheThoughtEmporium)
 
-  ### Undecided with Matt Ferrell
+  ### [Undecided with Matt Ferrell](https://www.youtube.com/c/UndecidedMF)
 
-  ### Vercidium
+  ### [Vercidium](https://www.youtube.com/c/Vercidium)
 
-  ### Veritasium
+  ### [Veritasium](https://www.youtube.com/c/veritasium)
 
-  ### vlogbrothers
+  ### [vlogbrothers](https://www.youtube.com/user/vlogbrothers)
 
   ### William H Baker
 
-  ### William Osman
+  ### [William Osman](https://www.youtube.com/c/WilliamOsman)
